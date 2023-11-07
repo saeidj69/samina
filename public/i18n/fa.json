@@ -1,0 +1,7 @@
+{
+    "title": "Multi-language app",
+    "label": "Select another language!",
+    "about": "درباره ما",
+    "home": "Home",
+    "user": "My name is: {{name}}"
+}
