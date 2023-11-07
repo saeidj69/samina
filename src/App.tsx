@@ -6,6 +6,7 @@ import { useTranslation } from 'react-i18next';
 import { Home } from "./pages/Home";
 import Login from "./pages/Login";
 function App() {
+  
   const { t, i18n } = useTranslation();
   document.body.dir = i18n.dir();
   return (

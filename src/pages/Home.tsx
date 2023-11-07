@@ -6,6 +6,7 @@ export const Home = () => {
   return (
     <MainLayout>
       <div>{t('about')}</div>
+      
     </MainLayout>
   );
 };
